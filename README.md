@@ -1,4 +1,5 @@
 **STUDENT-RESULT-ANALYSIS-DATABASE**
+
 Student Result Analysis System is a web-based application developed for colleges to analyze examination results and keep 
 track of students’ academic performance. The system allows viewing individual student results as well as department-wise result analysis
 without heavy manual work. It is designed to simplify the marks analysis process in educational institutions, especially with the growing number
